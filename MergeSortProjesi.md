@@ -16,4 +16,4 @@
 ````
 2^x = n  ---> logn = x  , her case için O(nlogn)
 ````
-[patika.dev] (https://www.patika.dev/)
+[patika.dev](https://www.patika.dev/)
