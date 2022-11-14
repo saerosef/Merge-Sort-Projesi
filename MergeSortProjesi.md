@@ -1,4 +1,4 @@
-# Patika.dev Merge Sort Porjesi
+# Patika.dev Merge Sort Projesi
 
 ## [16,21,11,8,12,22] -> Merge Sort
 
@@ -16,4 +16,4 @@
 ````
 2^x = n  ---> logn = x  , her case için O(nlogn)
 ````
-https://www.patika.dev/
+[patika.dev] (https://www.patika.dev/)
